@@ -16,5 +16,8 @@
   },
   "stackblitz": {
     "startCommand": "npm run test:ui"
+  },
+  "dependencies": {
+    "vi-fetch": "^0.7.1"
   }
 }
